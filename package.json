@@ -1,0 +1,25 @@
+{
+  "name": "allex__audio_eventlitelib",
+  "version": "1.0.0",
+  "description": "AllexJS implementation of a light event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allex-audio-libs/eventlite.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "event",
+    "lite",
+    "lib"
+  ],
+  "author": "Nadezdin Brat <razgar02@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-audio-libs/eventlite/issues"
+  },
+  "homepage": "https://github.com/allex-audio-libs/eventlite#readme"
+}
